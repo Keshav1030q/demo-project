@@ -1,3 +1,4 @@
 # demo-project
-trying to understand what is this 
-testing how commit works 
+trying to understand what is this. 
+<br>   
+testing how commit works
